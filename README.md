@@ -1,8 +1,9 @@
-# Biographical Sketch
+# Biographical Sketch – Nadege Roche-Labarbe
+  
+<img src="Profilpic24.jpg" alt="Nadege Roche-Labarbe Picture" width="20%">
 
-## NAME: Roche-Labarbe, Nadege  
-
-**POSITION TITLE:** Associate Professor, Psychology Department, University of Caen Normandy, FRANCE  
+## Associate Professor of Psychology
+### COMETE U1075, University of Caen Normandy, FRANCE
 
 ## EDUCATION/TRAINING
 
@@ -22,7 +23,7 @@
 
 I am a Biologist trained in integrative neuroscience as well as a certified Psychologist specialized in developmental child psychology. My work focuses on functional brain development during the perinatal period and its links with neurodevelopmental trajectories. My research lies at the intersection of sensory perception, human neurodevelopment, and psychopathology.
 
-During my thesis and post-doctoral work, I combined non-invasive methods (*functional near-infrared spectroscopy* (fNIRS), *diffuse correlation spectroscopy* (DCS), and *high spatial resolution electroencephalography* (HR-EEG)) to measure brain activity in newborns. I showed that newborns already have a functional neurovascular response that can be exploited to study the emergence of cognitive abilities at the very beginning of life. My recruitment as an Assistant Professor at the University of Caen enabled me to capitalize on these results to develop research into neonatal cognition. I thus proposed a research program aimed at 
+During [my thesis](https://theses.fr/2007AMIED004) and post-doctoral work, I combined non-invasive methods (*functional near-infrared spectroscopy* (fNIRS), *diffuse correlation spectroscopy* (DCS), and *high spatial resolution electroencephalography* (HR-EEG)) to measure brain activity in newborns. I showed that newborns already have a functional neurovascular response that can be exploited to study the emergence of cognitive abilities at the very beginning of life. My recruitment as an Assistant Professor at the University of Caen enabled me to capitalize on these results to develop research into neonatal cognition. I thus proposed the [DECODE research program](https://decode.unicaen.fr/en/decode-·-developpement-des-comportements-et-depistage-english/) aiming at:
 1) highlighting early cognitive mechanisms by measuring neonatal brain activity,
 2) understanding the links between these mechanisms and later cognitive development,
 3) assessing the potential of these mechanisms as neonatal markers of neurodevelopmental disorder (NDD) risk.
@@ -77,11 +78,11 @@ Grant from the Fondation de France, 94 k€.
 ### **Positions**
 - **01/2017–present**: Associate Professor, Psychology Department, University of Caen Normandy, France.  
 - **09/2011–12/2016**: Assistant Professor, Psychology Department, University of Caen Normandy, France.  
-- **09/2007–07/2011**: Post-doctoral Research Fellow, Martinos Center for Biomedical Imaging, Massachusetts General Hospital & Harvard-MIT Health Sciences and Technology Program, Boston, MA, USA.  
+- **09/2007–07/2011**: Post-doctoral Research Fellow, [Martinos Center for Biomedical Imaging](https://www.martinos.org), Massachusetts General Hospital & Harvard-MIT Health Sciences and Technology Program, Boston, MA, USA.  
 - **10/2003–06/2007**: Doctoral Candidate, GRAMFC laboratory - INSERM U1105, Medical School, Jules Verne University, Amiens, France.  
 
 ### **Appointments**
-- **2025-2028**: Elected board member of the FIT’NG (Fetal, Infant, and Toddler Neuroimaging) society.  
+- **2025-2028**: Elected board member of the [FIT’NG (Fetal, Infant, and Toddler Neuroimaging) society](https://fitng.org).  
 - **2025**: Scientific program chair of the Annual Conference of the FIT’NG society, Dublin, Ireland.  
 - **2024-present**: Appointed member of the CRBSP (Biomedical and Public Health Research Committee) of the Caen University Hospital.  
 - **2023-present**: Elected member of the Psychology Department Council.  
